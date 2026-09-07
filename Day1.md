@@ -1,4 +1,4 @@
-# First Day
+# Day1
 
 ## 1. Night
 
