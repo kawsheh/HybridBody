@@ -2,7 +2,7 @@
 
 ## 1. Night
 
-## Desgin Note
+## Design Note
 Marien enters to the siver town on first day with her dog (Heka). JoJo and Marien found Aura on sky, and Marien hears a strange noise.
 
 ## Characters
