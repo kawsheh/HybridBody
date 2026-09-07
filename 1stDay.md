@@ -13,7 +13,7 @@ Marien enters to the siver town on first day with her dog (Heka). JoJo and Marie
 - Isra (only screaming voice)
 
 ## Themes
-- AI Hearing machines
+- AI Hearing aids
 - Beginning of Solar flare (Aurora in sky)
 - Mystery of strange noise
 
@@ -27,3 +27,7 @@ When Marieng goes out to a community garden, she encouters JoJo who wears a AI H
 At the garden Heka senses something from sky, starts to bark and runs and back to entrance of the garden. Meanwhile Merien hears a stragne noise like fire works from a forest near the center.
 White JoJo glances to swirling Auroras in sky, Yassin, a security man comes to them warning to be quiet. Mariens goes back to her room and sleep on the first day night.
   
+## Musics
+- Ambient Background music?
+- JoJs's loud drum & bass music?
+ 
