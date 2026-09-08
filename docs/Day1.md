@@ -18,7 +18,7 @@ Marien enters to the siver town on first day with her dog (Heka). JoJo and Marie
 - Mystery of strange noise
 
 ## Locations
-- Marien's room
+- [Marien's room](https://github.com/kawsheh/HybridBody/blob/main/docs/MariensRoom.md)
 - Community Garden
 
 ## Main Narrative Summary
