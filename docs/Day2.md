@@ -82,10 +82,10 @@ After examining the options, Marien selects one device to test. Frio offers a pr
 - Entity (a three-legged, bird-like being)
 
 ## Themes
-- Searching for the Entity from the strange noise and clue from Sona's recording voice.
-- Finding a feather
-- Conversation with the Entity
-- Small improvment effects of a rental tech device. 
+- Searching for the Entity based on the strange noise and the clue in Sona's recorded voice
+- Discovering the feather
+- Encountering and conversing with the Entity
+- Small enhancement effects granted by the rental tech device
 
 ## Locations
 - Marien's Room
