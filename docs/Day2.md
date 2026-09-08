@@ -99,7 +99,10 @@ Sona plays a recorded voice from an unknown neighbor, captured secretly just bef
 
 ### Forest
 Marien slips past the sleeping guard, Yassin, with Heka and sneaks out into the night forest. Guided by Heka’s senses, Sona’s real-time audio enhancement, and the unique functional assist of her rental device, Marien navigates the terrain and discovers a ominous feather patterned like tiger skin on the ground. Sona confirms that a sorrowful cry echoing from the south matches the voice recording and Marien's previous encounter.
-Following the sound through the dark woods under a glowing green aurora, they reach a scorched, dying pine tree. There, Marien encounters the source of the noise: a massive, three-legged bird-like Entity whose dense feathers absorb light. Upon locking eyes with its abyss-like black pupil, Marien nearly loses consciousness until Heka snaps her out of it with a bark.
+Following the sound through the dark woods under a glowing green aurora
+
+### Single dying pine tree
+they reach a scorched, dying pine tree. There, Marien encounters the source of the noise: a massive, three-legged bird-like Entity whose dense feathers absorb light. Upon locking eyes with its abyss-like black pupil, Marien nearly loses consciousness until Heka snaps her out of it with a bark.
 Marien speaks with the Entity, who identifies itself as a sun messenger (known to human ancestors as the "Three-Legged Crow"). It explains that solar flares are merely natural traces of its flight across solar cycles and warns that its past flights brought massive blackouts and green auroras. After answering her questions, the Entity instructs her to keep the shed feather safe, as it will guide her path.
 Driven by curiosity, Marien tries to take a photo with the Entity, but Sona reveals the creature absorbs all light waves, leaving only black void on camera. The Entity notes that it cannot be captured by technology and will only remain in her memory. Even so, Marien snapped a photo anyway. With a powerful leap, the Entity takes flight into the aurora-covered sky and disappears. Reenergized yet running low on battery, Marien and Heka hurry back to the Silver Center before time runs out.
 
