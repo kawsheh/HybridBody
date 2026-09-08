@@ -19,7 +19,7 @@
 - Sona (Marien's AI Hearing Aids)
 
 ## Themes
-- Conversation with Neighbors for buiding each characters
+- Conversation with Neighbors for buiding each characters (diverse perspectives on solar flares)
 - Get to know about a upcoming Solar flare 
 - Rent a bio tech device
 
