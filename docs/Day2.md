@@ -17,6 +17,7 @@
 - Frio
 - Heka (Marien's dog)
 - Sona (Marien's AI Hearing Aids)
+- Mira 6 (Frio's robot dog)
 
 ## Themes
 - Conversation with Neighbors for buiding each characters (diverse perspectives on solar flares)
