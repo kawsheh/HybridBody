@@ -54,7 +54,6 @@ After Hanino leaves, Marien reflects on the mystical encounter, prepares herself
 Marien looks at the sun beating down heavily over the forest, then suddenly takes out the sun-observing glasses from her pocket and puts them on.
 In an instant, the blinding white glare burdening her vision clears away, revealing the deep red, massive surface of the sun pulled right up before her eyes against the pitch-black darkness. A giant sea of lava, the kind only seen on science magazine covers, is squirming fiercely. Fine black scars are captured across its surface, which quivers like an active volcano. A large sunspot at the upper right swells tightly, then spews a flurry of burning threads into the air like popping stitches. A vivid red warning window pops up on the glasses interface:
 _Sunspot Name: Cat's Paw / Estimated Explosion: 2 days 2 hours remaining_
-At the overwhelming sight that burns her eyes, Marien catches her breath with a gasp. The conviction flashes through her mind that the massive entity she encountered last night must have truly flown out from inside that boiling fireball.
 
 > [!NOTE]
 > Conversation with Isra may add?
