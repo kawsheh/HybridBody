@@ -1,6 +1,6 @@
 # Day1
 
-## 1. Night
+## 1. Nighttime
 
 ## Design Note
 Visual Style: Overall photogrammetry environment with glitched and distorted effects, reflecting corrupted digital data following post-solar flares.
@@ -15,7 +15,7 @@ Environment: Unkempt geometric garden filled with wild grass and absurd topiarie
 - Isra (only screaming voice)
 
 ## Themes
-- AI Hearing aids
+- Arrival at Silver town community
 - Beginning of Solar flare (Aurora in sky)
 - Mystery of strange noise
 
