@@ -49,11 +49,20 @@ The interaction then branches depending on the player's choice:
 Mustajid then opens up about his past—fighting dictatorships, fleeing Tunisia, and raising a surrogate daughter with his husband, only for wars and nationalist laws to strip away his parental rights. As he stares blankly, Marien holds his thin hand and hurls a barrage of fierce curses at the system. Heartened by her unexpected passion, Mustajid smiles and promises to introduce her to his daughter.
 
 ### Rental Office
+Marien enters the rental shop with Heka, greeted by faded emerald cabinets and the elderly mechanic, Frio. Alongside his sleek robot dog, Mira 6, Frio introduces himself as the community's old resident and technician. He explains his lifelong mission to liberate the elderly from physical limitations through cybernetic devices, mentioning his past creation—the Omni1 AI cochlear implant. Although she remains skeptical of body-integration gear, Marien converses with him while Frio covertly scans her physical frailties (glaucoma, missing teeth, pelvic imbalance, and bunions) using his cybernetic eye.
+Prio places four functional assistive devices on the counter for her to test free of charge for the day:
 
+-Quantum Dot Cornea Lenses (improves dialogue clarity and night vision)
+-Beltrun Actuator (corrects posture and increases walking speed)
+-Keratin Polymer Grillz Dentures (boosts stamina and plays cheerful background music)
+-Victoe-Lab Toe Robot (prevents falls and enables fast navigation)
 
+After examining the options, Marien selects one device to test. Frio offers a practiced, businesslike smile, confidently predicting she will return with a newfound faith in his technology.
 
   
 ## Musics
-- Ambient Background music for garden?
-- JoJs's loud drum & bass music?
+- Background music for garden or only Atmo
+- Background music for rental office or only atmo
+- Yob's loud music or Bees flying noise
+
  
