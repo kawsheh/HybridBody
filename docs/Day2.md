@@ -25,7 +25,7 @@
 - Rent a bio tech device
 
 ## Locations
-- Marien's Room
+- [Marien's Room](https://github.com/kawsheh/HybridBody/blob/main/docs/MariensRoom.md)
 - Community Garden
 - Rental Office
 
@@ -90,7 +90,7 @@ After examining the options, Marien selects one device to test. Frio offers a pr
 - Small enhancement effects granted by the rental tech device
 
 ## Locations
-- Marien's Room
+- [Marien's Room](https://github.com/kawsheh/HybridBody/blob/main/docs/MariensRoom.md)
 - Forest overview
 - Single dying pine tree
 
