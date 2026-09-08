@@ -1,6 +1,6 @@
 # Day3
 
-## 3. Day
+## 1. Daytime
 
 ## Design Note
 - Visual Style: Overall photogrammetry environment with glitched and distorted effects, reflecting corrupted digital data following post-solar flares.
@@ -56,7 +56,7 @@ After Hanino leaves, Marien reflects on the mystical encounter, prepares herself
 
 
 
- ## 2. Night
+ ## 2. Nighttime
  
  ## Design Note
 - Visual Style: Overall photogrammetry environment with glitched and distorted effects, reflecting corrupted digital data following post-solar flares.
