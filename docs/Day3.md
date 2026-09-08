@@ -49,6 +49,9 @@ While spending time in the sunny garden, Marien and Heka encounter Hanino, an el
 When Marien shows a blank photograph taken of the Entity, Hanino touches the empty shadow on the screen and accurately recites the exact words the Entity spoke to Marien during the night. Hanino reveals that the Entity is currently resting inside a deep forest cave, waiting for its final flight. She invites Marien to join her on a nighttime expedition to the cave at 10 PM, promising that ancient records inside will reveal whether the upcoming solar flare brings humanity's doom or a new beginning, provided Marien brings the feather as a guide.
 After Hanino leaves, Marien reflects on the mystical encounter, prepares herself for the upcoming night mission, and observes the sun before heading back inside with Heka to rest.
 
+> [!NOTE]
+> Conversation with Isra may add?
+
 
 ## Musics
 - Background music for garden or only Atmo
