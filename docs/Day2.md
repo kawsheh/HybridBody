@@ -3,7 +3,7 @@
 ## 1. Day
 
 ## Design Note
-Contrast Lighting setup between bright summer day and spooky dark night
+Overall 3D glitched environment data (reflecting corrupted digital data following post-solar flares). Bright lighting setup on a sunlit summer day.
 
 ## Characters
 - Marien
@@ -64,5 +64,32 @@ After examining the options, Marien selects one device to test. Frio offers a pr
 - Background music for garden or only Atmo
 - Background music for rental office or only atmo
 - Yob's loud music or Bees flying noise
+
+
+ ## 2. Night
+ 
+ ## Design Note
+Contrast Lighting setup between bright summer day and spooky dark night. 3d glitched envoirment. 
+
+## Characters
+- Marien
+- JoJo
+- Yob
+- Christi
+- Yassin
+- Mustajid
+- Frio
+- Heka (Marien's dog)
+- Sona (Marien's AI Hearing Aids)
+
+## Themes
+- Conversation with Neighbors for buiding each characters
+- Get to know about a upcoming Solar flare 
+- Rent a bio tech device
+
+## Locations
+- Marien's Room
+- Community Garden
+- Rental Office
 
  
