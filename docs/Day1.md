@@ -3,7 +3,9 @@
 ## 1. Night
 
 ## Design Note
-Marien enters to the siver town on first day with her dog (Heka). JoJo and Marien found Aura on sky, and Marien hears a strange noise.
+Visual Style: Overall photogrammetry environment with glitched and distorted effects, reflecting corrupted digital data following post-solar flares.
+Lighting: Evening lighting setup with Aurora on sky
+Environment: Unkempt geometric garden filled with wild grass and absurd topiaries, centered around a replica of "The Thinker" sculpture.
 
 ## Characters
 - Marien
