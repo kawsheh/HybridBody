@@ -45,6 +45,7 @@ Mustajid, who is lying under the scorching sun. Noticing his sleeveless leather 
 The interaction then branches depending on the player's choice:
 - Choice 1 (Critical Approach): Marien calls his inaction irresponsible to both himself and future generations. Defensively, Mustajid retorts that he cannot control the sun or his life's tragedies. When Marien gently reminds him to think of his children and grandchildren, Mustajid falls silent, covers his eyes with his arm, and groans in deep pain.
 - Choice 2 (Empathic Approach): Marien validates his trauma, sharing that peace is won by those who fought, though only fighters know its cruelty. Impressed by her strength, Mustajid admits his overwhelming fear of the world, to which Marien replies that choosing to live each day is up to the individual. Touched, Mustajid notes she sounds just like his daughter.
+  
 Mustajid then opens up about his past—fighting dictatorships, fleeing Tunisia, and raising a surrogate daughter with his husband, only for wars and nationalist laws to strip away his parental rights. As he stares blankly, Marien holds his thin hand and hurls a barrage of fierce curses at the system. Heartened by her unexpected passion, Mustajid smiles and promises to introduce her to his daughter.
 
 ### Rental Office
