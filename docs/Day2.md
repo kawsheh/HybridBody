@@ -3,7 +3,9 @@
 ## 1. Day
 
 ## Design Note
-Overall 3D glitched environment data (reflecting corrupted digital data following post-solar flares). Bright lighting setup on a sunlit summer day.
+- Visual Style: Overall photogrammetry environment with glitched and distorted effects, reflecting corrupted digital data following post-solar flares.
+- Lighting: Bright lighting setup on a sunlit summer day.
+- Environment: Unkempt geometric garden filled with wild grass and absurd topiaries, centered around a replica of "The Thinker" sculpture.
 
 ## Characters
 - Marien
@@ -69,27 +71,39 @@ After examining the options, Marien selects one device to test. Frio offers a pr
  ## 2. Night
  
  ## Design Note
-Contrast Lighting setup between bright summer day and spooky dark night. 3d glitched envoirment. 
+- Visual Style: Overall photogrammetry environment with glitched and distorted effects, reflecting corrupted digital data following post-solar flares.
+- Lighting: Restricted dark forest visibility, confined to the beam of a hand lamp.
+- Environment: Dense spooky forest map overview, Single dying pine tree.
 
 ## Characters
 - Marien
-- JoJo
-- Yob
-- Christi
-- Yassin
-- Mustajid
-- Frio
 - Heka (Marien's dog)
 - Sona (Marien's AI Hearing Aids)
+- Entity (a three-legged, bird-like being)
 
 ## Themes
-- Conversation with Neighbors for buiding each characters
-- Get to know about a upcoming Solar flare 
-- Rent a bio tech device
+- Searching for the Entity from the strange noise and clue from Sona's recording voice.
+- Finding a feather
+- Conversation with the Entity
+- Small improvment effects of a rental tech device. 
 
 ## Locations
 - Marien's Room
-- Community Garden
-- Rental Office
+- Forest overview
+- Single dying pine tree
 
- 
+## Main Narrative Summary 
+### Marien's Room
+Sona plays a recorded voice from an unknown neighbor, captured secretly just before Marien left the garden. The voice reveals that a sorrowful cry has been echoing from the forest at night, saying that finding its source may unveil the truth about humanity's fate following the solar flare. Confirming that the terrifying sound she heard yesterday was not a hallucination, an excited Marien decides to sneak out past the preoccupied Yassin into the dark forest with Heka to investigate the noise and track down this mysterious neighbor.
+
+### Forest
+Marien slips past the sleeping guard, Yassin, with Heka and sneaks out into the night forest. Guided by Heka’s senses, Sona’s real-time audio enhancement, and the unique functional assist of her rental device, Marien navigates the terrain and discovers a ominous feather patterned like tiger skin on the ground. Sona confirms that a sorrowful cry echoing from the south matches the voice recording and Marien's previous encounter.
+Following the sound through the dark woods under a glowing green aurora, they reach a scorched, dying pine tree. There, Marien encounters the source of the noise: a massive, three-legged bird-like Entity whose dense feathers absorb light. Upon locking eyes with its abyss-like black pupil, Marien nearly loses consciousness until Heka snaps her out of it with a bark.
+Marien speaks with the Entity, who identifies itself as a sun messenger (known to human ancestors as the "Three-Legged Crow"). It explains that solar flares are merely natural traces of its flight across solar cycles and warns that its past flights brought massive blackouts and green auroras. After answering her questions, the Entity instructs her to keep the shed feather safe, as it will guide her path.
+Driven by curiosity, Marien tries to take a photo with the Entity, but Sona reveals the creature absorbs all light waves, leaving only black void on camera. The Entity notes that it cannot be captured by technology and will only remain in her memory. Even so, Marien snapped a photo anyway. With a powerful leap, the Entity takes flight into the aurora-covered sky and disappears. Reenergized yet running low on battery, Marien and Heka hurry back to the Silver Center before time runs out.
+
+### Marien's Room
+Safely back in her room, Marien pulls off her overheating Sona and tosses the low-battery device into its charging cradle. She decides to find the neighbor from the recording at sunrise, believing they hold the answers, before collapsing onto her bed while Heka curls up on the floor.
+
+In her sleep, Marien dreams of a colossal, blazing sun pulsing with soundwaves that she sub-vocally mimics. As the solar surface tears open like a snapped string, Heka leaps into the weightless air toward the heat. The instant the sun's fiery steam touches him, Heka's silhouette shatters into the shadow of the giant three-legged crow and dissolves into darkness.
+
