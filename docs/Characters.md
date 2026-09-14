@@ -14,6 +14,7 @@
 ### Yassin
 ### Mustajid
 ### Frio
+- Background: A former 
 Frio is a 110-year-old Caucasian male with an extremely thin build, standing tall at 190 cm. He has a gaunt face, thin lips, and a cold expression. His medium-length dark-grey hair is firm but thinning. Over his right eye, he wears a monocle equipped with an adjustable aperture mechanism, and futuristic hearing aids in both ears. His right arm is a titanium prosthesis fitted with buttons, and his left leg is a titanium prosthetic joint equipped with small hydraulic valves. He wears a grey workwear-style shirt paired with grey shorts, along with white tech-style sneakers on his feet.
 
 ## Nonhuman Characters
