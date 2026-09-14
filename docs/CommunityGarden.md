@@ -7,7 +7,7 @@
 - "The Thinker" is a landmark and conversation anchor, placed on a podium in the middle of the garden.
 - 5 absurd rounded topiaries surrounding "The Thinker"
 - A huge ginkgo tree on right side, serving specifically as Christie’s contemplative space
-- 2 wooden benches, surrounded by bare earth rather than wild grass
+- 2 wooden benches (one under the ginkgo tree, one on the left side of the garden), surrounded by bare earth rather than wild grass.
 - 2 tables with Parasols
 - Audio equipment belonging to Yob
 - The garden must remain navigable and legible for interaction, with characters and props having clear staging zones.
