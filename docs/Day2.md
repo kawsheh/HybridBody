@@ -114,6 +114,6 @@ Safely back in her room, Marien pulls off her overheating Sona and tosses the lo
 In her sleep, Marien dreams of a colossal, blazing sun pulsing with soundwaves that she sub-vocally mimics. As the solar surface tears open like a snapped string, Heka leaps into the weightless air toward the heat. The instant the sun's fiery steam touches him, Heka's silhouette shatters into the shadow of the giant three-legged crow and dissolves into darkness.
 
 ## Music/Sound Notes
-- Subtle mysterious background music in the forest
+- Subtle mysterious background music in the forest or Real soundscape recording from suummer night forest
 - Echoing Entity's noise (like 호랑지빠귀 울음소리)
 
