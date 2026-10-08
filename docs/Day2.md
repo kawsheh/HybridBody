@@ -63,13 +63,13 @@ Prio places four functional assistive devices on the counter for her to test fre
 After examining the options, Marien selects one device to test. Frio offers a practiced, businesslike smile, confidently predicting she will return with a newfound faith in his technology.
 
   
-## Musics
-- Background music for garden or only Atmo
-- Background music for rental office or only atmo
-- Yob's loud music or Bees flying noise
-
-
-
+## Music/Sound Notes
+- Background music in Community garden.
+- Yob's loud techno music, Bees flying noise around him. 
+- Background absurd music in rental office.
+- Sound effect (mouse click sound) for device inventory? 
+- General cheerful background music, if a player choose the grillz device.
+  
 
  ## 2. Nighttime
  
@@ -113,6 +113,7 @@ Safely back in her room, Marien pulls off her overheating Sona and tosses the lo
 
 In her sleep, Marien dreams of a colossal, blazing sun pulsing with soundwaves that she sub-vocally mimics. As the solar surface tears open like a snapped string, Heka leaps into the weightless air toward the heat. The instant the sun's fiery steam touches him, Heka's silhouette shatters into the shadow of the giant three-legged crow and dissolves into darkness.
 
-## Musics
-- Subtle mysterious background music in the forest with echoing Entity's noise
+## Music/Sound Notes
+- Subtle mysterious background music in the forest
+- Echoing Entity's noise (like 호랑지빠귀 울음소리)
 
